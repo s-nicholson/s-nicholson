@@ -32,8 +32,22 @@ target = "_blank"
 [[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
-weight = 4
+weight = 2
 url = "https://www.linkedin.com/in/sjnicholson/"
+target = "_blank"
+
+[[params.social]]
+icon = "fa-brands fa-stack-overflow fa-2x"
+name = "Stack Overflow"
+url = "https://stackoverflow.com/users/1723432/sam"
+weight = 3
+target = "_blank"
+
+[[params.social]]
+icon = "fa fa-map-marker fa-2x"
+name = "Glasgow, UK"
+url = "https://maps.app.goo.gl/tFeVNcBn823Fy1Bs5"
+weight = 4
 target = "_blank"
 
 [languages.en]
