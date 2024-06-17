@@ -1,0 +1,12 @@
+<details>
+    <summary>{{ .Get "title" | default "Click to expand" | markdownify }}
+        {{ if ( .Get "subtitle" ) }}
+            <br />
+            <subtitle>
+                <i>{{ .Get "subtitle" | markdownify }}</i>
+            </subtitle>
+        {{ end }}
+    </summary>
+    <div>{{ .Inner | markdownify }}</div>
+</details>
+

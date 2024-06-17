@@ -1,0 +1,18 @@
+{{ define "title" }}
+  {{ .Title }} · {{ .Site.Title }}
+{{ end }}
+{{ define "content" }}
+  <link rel="stylesheet" href="/styles/cv.css" type="text/css" media="screen" />
+  <!--
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.3/html2pdf.bundle.min.js"></script>
+  <script>
+    function printPdf() {
+      html2pdf(document.getElementById("cv"), {
+        filename: "Sam_Nicholson_CV.pdf"
+      });
+    }
+  </script>
+  -->
+  {{ partial "cv.html" . }}
+  {{ partial "posts/math.html" . }}
+{{ end }}

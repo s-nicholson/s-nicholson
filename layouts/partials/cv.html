@@ -1,0 +1,18 @@
+<section class="container page">
+  <article>
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="{{ .Permalink | safeURL }}">
+          {{ .Title }}
+        </a>
+      </h1>
+    </header>
+
+    <!--
+    <button onclick="printPdf()">PDF</button>
+    -->
+    <div id="cv">
+      {{ .Content }}
+    </div>
+  </article>
+</section>
