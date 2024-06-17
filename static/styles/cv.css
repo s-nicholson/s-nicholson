@@ -1,0 +1,106 @@
+#cv * {
+
+    article, aside, details, figcaption, figure, 
+    footer, header, hgroup, menu, nav, section {
+        display: block;
+    }
+    body {
+        line-height: 1;
+    }
+    ol, ul {
+        list-style: none;
+    }
+    blockquote, q {
+        quotes: none;
+    }
+    blockquote:before, blockquote:after,
+    q:before, q:after {
+        content: '';
+        content: none;
+    }
+    table {
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+
+    p {
+        position: relative;
+        margin-bottom: 0.7em;
+        margin-right: 0;
+        width: 65%;
+    }
+
+    code {
+        font: normal normal;
+        font-size: 60%;
+        font-family: Menlo,monospace,sans-serif;
+        color: #aaa;
+    }
+
+    ul { 
+        position: relative;
+        left: 33%;
+        width: 65%;
+        margin-bottom: 1.5em;
+        margin-top: -0.5em;
+    }
+
+    li {
+        padding-left: 1.25em;
+        text-indent: -1.25em;
+    }
+
+    li ul {
+        position: relative;
+        left: 0;
+        width: 100%;
+        margin-top: 0.25em;
+    }
+
+    h1,h2,h3,h4 {
+        font-weight: 400;
+        font-family: Cousine,Verdana,sans-serif;
+        width: 65%;
+    }
+
+    h1 {
+        text-align: left;
+        font-size: 3em;
+        line-height: 1em;
+        position: relative;
+        left: 33%;
+    }
+
+    h1+p { 
+        font-style: italic;
+        font-size: 110%;
+    }
+
+    h2 {
+        font-size: 1.1em;
+        color: #a00;
+        margin-top: 3em;
+        position: relative;
+        top: 1.4em;
+        text-align: right;
+        width: 20%;
+    }
+
+    h3 {
+        font-size: 1em;
+        line-height: 2em; 
+        position: relative;
+        top: 1.7em;
+        text-align: right;
+        width: 20%;
+    }
+
+    em {
+        font-weight: bold;
+        font-style: italic;
+    }
+
+    strong {
+        font-weight: bold;
+    }
+}

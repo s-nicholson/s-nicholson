@@ -1,13 +1,15 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-gb'
-title = 'Hi!'
+title = 's-nicholson'
 theme = 'github.com/luizdepra/hugo-coder'
+
+enableEmoji = true
 
 [params]
 author = "Sam Nicholson"
 description = "Sam Nicholson's personal website"
 keywords = "developer,personal"
-info = ["Full Stack Dev"]
+info = ["Full stack dev", "and general thing fixer"]
 avatarURL = "images/avatar.png"
 dateFormat = "2006-01-02"
 since = 2024
@@ -21,6 +23,13 @@ rtl = false
 # "dark" (dark background, light foreground)
 # "light" (light background, dark foreground) (default)
 colorScheme = "auto"
+
+[[params.social]]
+icon = "fa fa-envelope fa-2x"
+name = "Glasgow, UK"
+url = "mailto://hello@s-nicholson.co.uk"
+weight = 0
+target = "_blank"
 
 [[params.social]]
 name = "Github"
@@ -53,14 +62,22 @@ target = "_blank"
 [languages.en]
 languageName = ":uk:"
 
-#[[languages.en.menu.main]]
-#name = "About"
-#weight = 1
-#url = "about/"
-#
-#
-#[[languages.en.menu.main]]
-#name = "CV"
-#weight = 1
-#url = "cv/"
+[[languages.en.menu.main]]
+name = "About me"
+weight = 1
+url = "about/"
 
+#[[languages.en.menu.main]]
+#name = "Skills"
+#weight = 2
+#url = "skills/"
+
+#[[languages.en.menu.main]]
+#name = "Experience"
+#weight = 3
+#url = "experience/"
+
+[[languages.en.menu.main]]
+name = "Get in touch"
+weight = 4
+url = "contact/"
