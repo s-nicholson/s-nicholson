@@ -7,9 +7,6 @@
     body {
         line-height: 1;
     }
-    ol, ul {
-        list-style: none;
-    }
     blockquote, q {
         quotes: none;
     }
@@ -26,7 +23,6 @@
     p {
         position: relative;
         margin-bottom: 0.7em;
-        margin-right: 0;
         width: 65%;
     }
 
@@ -35,26 +31,6 @@
         font-size: 60%;
         font-family: Menlo,monospace,sans-serif;
         color: #aaa;
-    }
-
-    ul { 
-        position: relative;
-        left: 33%;
-        width: 65%;
-        margin-bottom: 1.5em;
-        margin-top: -0.5em;
-    }
-
-    li {
-        padding-left: 1.25em;
-        text-indent: -1.25em;
-    }
-
-    li ul {
-        position: relative;
-        left: 0;
-        width: 100%;
-        margin-top: 0.25em;
     }
 
     h1,h2,h3,h4 {

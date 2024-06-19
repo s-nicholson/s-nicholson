@@ -15,7 +15,7 @@ I'm a big fan of minimalism, so if this site appears a bit spartan it's by desig
 
 ## Dev work :computer::monkey:
 
-I've been doing software-adjacent things professionally for a while now.<!--  across [a few different gigs](/experience) and [a pile of different tech](/skills).-->
+I've been doing software-adjacent things professionally for a while now across [a few different gigs](/experience) and [a pile of different tech](/skills).
 
 While I usually start a new project as some kind of "developer", this usually ends up with me just looking for the nearest *broken thing* and trying to make it *less broken / on fire* (code, builds, infra, team dynamics - there's no shortage of broken stuff to choose from).
 
