@@ -20,9 +20,9 @@ In rough order of time using / competency.
 - `shell` (mostly `bash` and `zsh`): Countless hours spent perfecting little cli tools to automate tasks on my dev machine - often a net loss if we're honest.
 - `javascript`: Some limited front-end JS work - I can manage it, but it's definitely not my comfort zone.
 
-{{< note >}}
+{{<note>}}
 An honorable mention for `go` - I've not done a massive amount with this yet, but it's what I'm currently teaching myself and I'm pretty enamoured with it so far.
-{{</ note >}}
+{{</note>}}
 
 ## Frameworks :framed_picture:
 
@@ -61,9 +61,9 @@ I've worked on a number of projects using some combination of the below platform
 - Atlassian (Jira, Confluence, Bitbucket)
 - Azure DevOps
 
-{{< note >}}
+{{<note>}}
 So far my favourite has been "whichever one has been set up sensibly for the team" and my least favourite has been "a one-size-fits-all, centrally-mandated one".
-{{</ note >}}
+{{</note>}}
 
 ## Tools and applications :hammer_and_wrench:
 
