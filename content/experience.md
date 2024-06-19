@@ -68,7 +68,6 @@ Learned kotlin for the role and quickly started contributing to the team. Onboar
 - Took over as sole dev for the regulatory reporting project (a Java service running mysql stored procedures), delivering new functionality and performance improvements to problematic reporting jobs (reduced run time by ~90%).
 - Quickly became an SME, used my knowledge to support the service in production and work with regulators to understand their issues.
 - Onboarded contractors to the team and handed over the reporting project to them.
-
 - Also worked on Responsible Gaming features to keep our services compliant with state regulations and provide customers with safety features.
 
 `java, python, mysql, aws, terraform, gradle, git, jenkins, jira, guice, hibernate`
