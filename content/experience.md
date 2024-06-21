@@ -112,7 +112,7 @@ Learned kotlin for the role and quickly started contributing to the team. Onboar
 
 My undergraduate degree was mostly theory with a few modules which were more focussed on practical elements, but not a huge amount of things which would be drectly transferable to professional software engineering.
 
-The course did give me a foundational understanding of programming (including giving me my first taste of Java :coffee:) and touched briefly on a lot of other topics (networking, database technologies, cryptography, graphics, etc.) - giving me just enough knowledge in each space to be dangerous.
+The course did give me a foundational understanding of programming (including giving me my first taste of Java) and touched briefly on a lot of other topics (networking, database technologies, cryptography, graphics, etc.) - giving me just enough knowledge in each space to be dangerous.
 
 `java, javascript, php, c++, mysql, android`
 
