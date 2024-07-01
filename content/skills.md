@@ -13,7 +13,7 @@ In rough order of time using / competency.
 
 ## Programming languages :computer::monkey:
 
-- `java`: 10+ years experience with Java at this point ranging from desktop apps producing spreadsheets to webapps to APIs, fair to say I'm comfortable with Java by now. 
+- `java`: 10+ years experience with Java at this point ranging from desktop apps producing spreadsheets to webapps to APIs, fair to say I'm comfortable with Java by now - also comfortable with various bits of the Java ecosystem (`maven`, `gradle`, etc). 
 - `c#` (or "MS Java"): Only a couple of years hands-on time with this but I found that a lot of my Java experience was transferrable. The last time I used C# it was preferable to Java, but Java has come a long way since then.
 - `typescript`: I'm pretty comfortable in Typescript, although my experience was mostly in writing server-side stuff to run GraphQL resolvers.
 - `python`: Most of my experience in python has been using it to write scripts in something more friendly than bash. I'd consider myself able to use core python, but I'm not familiar with the fancier elements.
@@ -73,6 +73,7 @@ So far my favourite has been "whichever one has been set up sensibly for the tea
 - `docker`: Spent a fair bit of time using docker over my recent projects as it seems to be the natural way to package applications.
 - `kubernetes`: Not a massive amount of time with this one, but enough to get to grips with the basics - I've enjoyed working with it for the most part, I've found ECS easier in the past but k8s does give you a standard to work with which isn't nothing.
 - `liquibase` I've used this a few times for managing schema migrations and I think it's incredibly useful if used correctly.
+- Version control: familiar with version control, mostly `git` but also some prior experience with `svn` (for my sins).
 
 ### Databases
 

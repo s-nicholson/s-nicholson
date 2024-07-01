@@ -6,10 +6,11 @@ layout = 'cv'
 
 I'm an experienced generalist software engineer, currently working in consultancy, always looking to learn new things and solve new problems.
 
+You can grab my [CV as a PDF here](/files/Sam_Nicholson_CV.pdf) and feel free to [give me a shout if you want to chat about any of it](/contact).
+
 {{<note>}}
 Below is a brief summary of my various gigs, plus a little word jumble of the tech I got to play with while I was there.
 {{</note>}}
-<!--You can also grab my [CV as a PDF here](/files/Sam_Nicholson_CV.pdf).-->
 
 ## Right now...
 
