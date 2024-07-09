@@ -78,6 +78,11 @@ weight = 3
 url = "experience/"
 
 [[languages.en.menu.main]]
-name = "Get in touch"
+name = "Posts"
 weight = 4
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Get in touch"
+weight = 5
 url = "contact/"
