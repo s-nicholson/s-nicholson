@@ -23,7 +23,8 @@ So, I put off trying to build this because I was sure it would be painful (and b
 But, if anything, throwing this site together was _too_ simple - I'd expected it would take a while to get off the ground, but because the skeleton of the site came together so quickly it left me with nothing to do but mess around with content[^4]. :sweat_smile:
 
 {{<note>}}
-All the code lives [here on my GitHub](https://github.com/s-nicholson/s-nicholson), so if I miss bits out you can probably figure it out from the commit history.
+All the code lives [here on my GitHub](https://github.com/s-nicholson/s-nicholson).
+if you find this belpful, feel free to give me a shout. if I've messed something up, likewise! Or better yet, send me a PR!
 {{</note>}}
 
 ## Hugo 
