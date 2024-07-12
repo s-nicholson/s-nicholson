@@ -20,10 +20,6 @@ In rough order of time using / competency.
 - `shell` (mostly `bash` and `zsh`): Countless hours spent perfecting little cli tools to automate tasks on my dev machine - often a net loss if we're honest.
 - `javascript`: Some limited front-end JS work - I can manage it, but it's definitely not my comfort zone.
 
-{{< note >}}
-An honorable mention for `go` - I've not done a massive amount with this yet, but it's what I'm currently teaching myself and I'm pretty enamoured with it so far.
-{{</ note >}}
-
 ## Frameworks :framed_picture:
 
 Java-ish stuff takes up a good chunk of my experience, but the more current / relevant things are:
