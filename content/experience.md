@@ -12,9 +12,20 @@ You can grab my [CV as a PDF here](/files/Sam_Nicholson_CV.pdf) and feel free to
 Below is a brief summary of my various gigs, plus a little word jumble of the tech I got to play with while I was there.
 {{</note>}}
 
+
 ## Right now...
 
-{{<details title="`2021 - Now` **Consultant @ Accenture NGE / Infinity Works**" subtitle="Working across various client accounts in a development role, slotting into an existing team and finding the best way to help out (usually by asking awkward questions and fixing broken things)">}}
+{{<details name="job" title="`2026 - Now` **Senior Backend Engineer @ MrQ**" subtitle="Backend dev in the Platform Tribe" >}}
+
+- TODO
+
+`kotlin, java, aws, kubernetes, redis, mongodb, terraform, gradle, git, jenkins, linear`
+
+{{</details>}}
+
+## Previously...
+
+{{<details name="job" title="`2021 - 2026` **Consultant @ Accenture NGE / Infinity Works**" subtitle="Working across various client accounts in a development role, slotting into an existing team and finding the best way to help out (usually by asking awkward questions and fixing broken things)">}}
 
 I moved into consultancy so I could rotate between client projects - being exposed to different domains and tech stacks - without needing to job hunt.
 This was something I never found in "product shops".
@@ -59,12 +70,9 @@ Learned kotlin for the role and quickly started contributing to the team. Onboar
 
 `kotlin, psql, mongodb, kafka, pcf, gradle, git, spring boot, cucumber bdd`
 
-
 {{</details>}}
 
-## Previously...
-
-{{<details title="`2020 - 2021` **Software Engineer @ FanDuel**" subtitle="Java dev on services in Responsible Gaming and Regulatory Reporting" >}}
+{{<details name="job" title="`2020 - 2021` **Software Engineer @ FanDuel**" subtitle="Java dev on services in Responsible Gaming and Regulatory Reporting" >}}
 
 - Took over as sole dev for the regulatory reporting project (a Java service running mysql stored procedures), delivering new functionality and performance improvements to problematic reporting jobs (reduced run time by ~90%).
 - Quickly became an SME, used my knowledge to support the service in production and work with regulators to understand their issues.
@@ -76,7 +84,7 @@ Learned kotlin for the role and quickly started contributing to the team. Onboar
 
 {{</details>}}
 
-{{<details title="`2018 - 2020` **Software Engineer @ Pinsent Masons**" subtitle="Java/C# dev working in the SmartDelivery team delivering webapps for fee-earners and clients" >}}
+{{<details name="job" title="`2018 - 2020` **Software Engineer @ Pinsent Masons**" subtitle="Java/C# dev working in the SmartDelivery team delivering webapps for fee-earners and clients" >}}
 
 - Worked as a dev across the SmartDelivery team's main apps - a C# webapp and a legacy Java forms engine.
 - Spent a lot of time understanding the Java app and documenting it's features to make it easier to use.
@@ -87,7 +95,7 @@ Learned kotlin for the role and quickly started contributing to the team. Onboar
 
 {{</details>}}
 
-{{<details title="`Jul 2017 - Dec 2017` **Analyst @ Accenture**" subtitle="A brief stint in the Live Support team, supporting HMRC applications written in C/C++ and Java" >}}
+{{<details name="job" title="`Jul 2017 - Dec 2017` **Analyst @ Accenture**" subtitle="A brief stint in the Live Support team, supporting HMRC applications written in C/C++ and Java" >}}
 
 - Investigating live issues in HMRC National Insurance systems, debugging code, and implementing fixes.
 - Got up to speed in a short space of time, including learning internal project-specific tooling and teaching myself some perl.
@@ -96,7 +104,7 @@ Learned kotlin for the role and quickly started contributing to the team. Onboar
 
 {{</details>}}
 
-{{<details title="`2014 - 2017` **Software Engineer @ BT**" subtitle="Java developer working in the Energy team, developing internal applications to monitor and manage the company's energy usage" >}}
+{{<details name="job" title="`2014 - 2017` **Software Engineer @ BT**" subtitle="Java developer working in the Energy team, developing internal applications to monitor and manage the company's energy usage" >}}
 
 - Worked on the PEMS application which was allowed BT to participate in Triad and STOR schemes from the National Grid.
 - Developed a data-driven query framework which allowed the us to deliver reports to the stakeholders quickly and without the need to release code.
@@ -107,7 +115,7 @@ Learned kotlin for the role and quickly started contributing to the team. Onboar
 
 ## And before that...
 
-{{<details title="`2010 - 2014` **Computer Science with Industrial Placement @ Newcastle University**" subtitle="Graduated with 1st Class BSc (Hons)" >}}
+{{<details name="job" title="`2010 - 2014` **Computer Science with Industrial Placement @ Newcastle University**" subtitle="Graduated with 1st Class BSc (Hons)" >}}
 
 My undergraduate degree was mostly theory with a few modules which were more focussed on practical elements, but not a huge amount of things which would be drectly transferable to professional software engineering.
 

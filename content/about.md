@@ -7,7 +7,7 @@ I'm Sam.
 
 I'm originally from [a small town](https://en.wikipedia.org/wiki/Bedlington) a little bit north of Newcastle, but by this point I think I've pretty much lost my accent.
 
-After [university](https://www.ncl.ac.uk/computing/) I moved North of the Wall to my adopted home city of Glasgow, Scotland - where I've been for the last 10+ years now.
+After [university](https://www.ncl.ac.uk/computing/) I moved North of the Wall to my adopted home city of [Glasgow, Scotland](https://en.wikipedia.org/wiki/Glasgow) - where I've been for the last 10+ years now.
 
 My wife, Amy, and I currently live a bit west of Glasgow with our ~~small chaos demon~~ golden retriever, [Jura](https://www.instagram.com/jura_the_golden/)[^1] (named for [the island](https://en.wikipedia.org/wiki/Jura,_Scotland) and [the whisky](https://en.wikipedia.org/wiki/Jura_distillery)).
 

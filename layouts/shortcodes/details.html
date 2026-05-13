@@ -1,4 +1,4 @@
-<details>
+<details name="{{ .Get "name" }}">
     <summary>{{ .Get "title" | default "Click to expand" | markdownify }}
         {{ if ( .Get "subtitle" ) }}
             <br />

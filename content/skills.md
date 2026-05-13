@@ -45,9 +45,15 @@ AWS is pretty much it's own category since there's so much going on,but just say
 - Lambdas (in Java, Python, and Typescript) to do an assortment of things - handling GraphQL queries, running file transfers, processing events from SQS and Kafka,
 - DMS to sync data from a production DB to a replica for reporting,
 - DynamoDB as a data store and source for events,
-- ECS to run docker applications without worrying about hosts or clusters.
+- ECS to run docker applications without worrying about hosts or clusters,
+- a lot of S3 and Transfer Family bits,
+- a little bit of EKS, but mostly just running workloads not actually managing the cluster myself.
 
-I've also passed the AWS Solutions Architect Associate certification, which gave a broad but shallow overview of a lot of the popular bits of AWS.
+I also passed the AWS Solutions Architect Associate certification, which gave a broad but shallow overview of a lot of the popular bits of AWS.
+
+{{< note >}}
+My cert has expired now and I don't think I'll renew it - too much of a time investment for not enough benefit.
+{{</ note >}}
 
 ### Assorted project bits
 
@@ -67,9 +73,9 @@ So far my favourite has been "whichever one has been set up sensibly for the tea
 - `terraform`: Pretty comfortable with this one, having had it as the de facto IaC tool on several projects.
 - `cdk`: Only recently started using this in anger, but so far I'm vastly preferring it to terraform.
 - `docker`: Spent a fair bit of time using docker over my recent projects as it seems to be the natural way to package applications.
-- `kubernetes`: Not a massive amount of time with this one, but enough to get to grips with the basics - I've enjoyed working with it for the most part, I've found ECS easier in the past but k8s does give you a standard to work with which isn't nothing.
+- `kubernetes`: Quite a lot of time with this one, I've found ECS easier in the past but k8s does give you a standard to work with which isn't nothing. From a bit of time playing with hand-rolled clusters, I'll definitely stick with EKS.
 - `liquibase` I've used this a few times for managing schema migrations and I think it's incredibly useful if used correctly.
-- Version control: familiar with version control, mostly `git` but also some prior experience with `svn` (for my sins).
+- Version control: familiar with version control, mostly `git` but also some prior experience with `svn` :grimacing:
 
 ### Databases
 
