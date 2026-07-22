@@ -17,9 +17,15 @@ Below is a brief summary of my various gigs, plus a little word jumble of the te
 
 {{<details name="job" title="`2026 - Now` **Senior Backend Engineer @ MrQ**" subtitle="Backend dev in the Platform Tribe" >}}
 
-- TODO
+- A few different :sparkles:AI:sparkles: bits and pieces:
+  - in-house Code Review agent,
+  - infra modules to integrate models in our services,
+  - MCP Gateway for internal agents,
+  - building patterns for new MCPs and agents to make adoption easier for other teams,
+- Migrating services from legacy cloud provider to EKS - service code and config changes, new supporting infra in terraform, migrating data from old DBs to new RDS.
+- Grafana onboarding and tuning for cost optimisation.
 
-`kotlin, java, aws, kubernetes, redis, mongodb, terraform, gradle, git, jenkins, linear`
+`:sparkles:ai:sparkles:, kotlin, java, aws, eks, bedrock, redis, mongodb, terraform, gradle, jenkins, github actions, linear`
 
 {{</details>}}
 
